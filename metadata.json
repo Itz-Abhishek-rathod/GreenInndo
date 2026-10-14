@@ -1,0 +1,6 @@
+{
+  "name": "PureSolar - Clean Energy for a Brighter Tomorrow",
+  "description": "PureSolar delivers reliable, affordable solar energy solutions for homes, businesses, and communities with smart clean energy technology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
